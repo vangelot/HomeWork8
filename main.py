@@ -5,4 +5,4 @@ def main_function()
 
 def test_function()
     print("Test for 1st commit")
-
+    print("Test for 2nd commit")
